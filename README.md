@@ -1,6 +1,4 @@
-# THIS MOD IS BEING MOVED TO SR2
-
-If you want a working one for SR1, go to saty discord, **IT IS NOT PAID, IT IS JUST A DONATION SYSTEM YOU SEE**
+# This mod has a more developed port for SR2, though this mod is being worked on every now and then by helpers.
 
 # Slime Rancher Multiplayer Mod (PinkTarr remake)
 
